@@ -1,4 +1,4 @@
-![Seeder](http://hellofrancesco.com/wp-content/uploads/2012/12/seederlogo.jpg "Seeder Logo")
+![Seeder](http://media.hellofrancesco.com/seeder.png "Seeder Logo")
 
 Introduction
 --------------------
